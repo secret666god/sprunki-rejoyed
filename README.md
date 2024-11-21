@@ -1,6 +1,6 @@
 # Sprunki Rejoyed
 
-Sprunki Rejoyed is a free online music and rhythm game that lets you create catchy tunes by arranging quirky characters on a virtual stage. Mix and match sounds, unlock new characters, and share your musical masterpieces with the world. Play Sprunki Rejoyed Now: [https://spunky.games/sprunki-rejoyed](https://spunky.games/sprunki-rejoyed)
+Sprunki Rejoyed is a free online music and rhythm game that lets you create catchy tunes by arranging quirky characters on a virtual stage. Mix and match sounds, unlock new characters, and share your musical masterpieces with the world. Play [sprunki-rejoyed](https://spunky.games/sprunki-rejoyed)
 
 ---
 
@@ -21,7 +21,7 @@ Sprunki Rejoyed is a browser-based music game developed by Spunky Games, designe
 
 ## How to Play Sprunki Rejoyed
 
-1. **Access the Game:** Visit [https://spunky.games/sprunki-rejoyed](https://spunky.games/sprunki-rejoyed) to play directly in your web browser.
+1. **Access the Game:** Visit sprunki-rejoyed to play directly in your web browser.
 2. **Arrange Your Characters:** Drag and drop the Sprunki characters onto the stage.  Each character corresponds to a distinct sound or musical loop.
 3. **Experiment with Sounds:** Try different combinations of characters and placements to discover unique sounds and create your melodies.
 4. **Record Your Track:**  Use the recording feature to capture and save your musical compositions.
@@ -58,11 +58,11 @@ Sprunki Rejoyed is a browser-based music game developed by Spunky Games, designe
 5. **Can I save my musical creations in Sprunki Rejoyed?**  Saving options may include local saving or integration with online accounts, depending on the platform.
 6. **Does the game have levels or stages?**  Progression in Sprunki Rejoyed might involve unlocking new characters and expanding the available sound library.
 7. **What inspired Sprunki Rejoyed?** It's inspired by music creation and rhythm games, offering a fun and accessible way to make music. Players of [Sprunki Retake](https://sprunkiretake.org/) might find this game similarly enjoyable.
-8. **Where can I find more information about Spunky Games?** Visit the official Spunky Games website at [https://spunky.games](https://spunky.games). For another game by the same developer, check out [ESprunki Game](https://esprunki.com/).
+8. **Where can I find more information about Spunky Games?** Visit the official Spunky Games website at [spunky.games](https://spunky.games). For another game by the same developer, check out [ESprunki Game](https://esprunki.com/).
 9. **Is there a mobile app for Sprunki Rejoyed?** While there may not be a dedicated mobile app, you can easily play the game through your device's web browser.
 10. **How can I contact the developers of Sprunki Rejoyed?**  Developer contact information should be available on the game's official website or related Spunky Games resources.
 
 
 ---
 
-Ready to spread the musical joy? Play Sprunki Rejoyed now! [https://spunky.games/sprunki-rejoyed](https://spunky.games/sprunki-rejoyed)
+Ready to spread the musical joy? Play Sprunki Rejoyed now!
